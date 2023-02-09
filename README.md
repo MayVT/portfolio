@@ -6,3 +6,5 @@
 - Pull
 - Fetch
 - Linea para resolver conflicto
+- Resolver conflictos
+
